@@ -1,0 +1,20 @@
+{
+  "name": "onedrive-storage-wrapper",
+  "version": "1.0.0",
+  "description": "A package to upload videos to OneDrive",
+  "main": "index.js",
+  "keywords": [
+    "onedrive",
+    "video",
+    "upload",
+    "storage",
+    "progress"
+  ],
+  "author": "Shashank R",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "qs": "^6.14.0"
+  },
+  "type": "module"
+}
