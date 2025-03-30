@@ -1,7 +1,11 @@
 {
   "name": "onedrive-storage-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package to upload videos to OneDrive",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shashank-R87/onedrive-storage-wrapper.git"
+  },
   "main": "index.js",
   "keywords": [
     "onedrive",
